@@ -1,1 +1,1 @@
-# c-practice-HackerRank-
+# HackerRank(c++)
